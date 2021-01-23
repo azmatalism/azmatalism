@@ -1,4 +1,4 @@
-### Hi there, I'm Azmat Ahmed [azmatalism][website] 👋
+### Hi there, I'm Azmat Ahmed [freefuninfo][website] 👋
 
 ## I'm Student, Developer !
 - 🌱 I'm Android developer 
@@ -34,10 +34,15 @@
 
 - [Here you can watch video on my YouTube!](https://www.youtube.com/channel/UCpK3u-BSyp3aNT7G3NKxd0Q)
 
+### 📺 Blog
+
+
+[Urdu Status][Blog] 👋
 
 ➡️ 
 
-[website]: https://freefuninfo.com
+[website]: https://freefuninfo.com/
+[Blog]: http://urdu-status.blogspot.com/
 [twitter]: https://twitter.com/Azmatahmed47
 [youtube]: https://www.youtube.com/channel/UCpK3u-BSyp3aNT7G3NKxd0Q
 [instagram]: https://instagram.com/azmatalism
