@@ -45,7 +45,6 @@
 
 [website]: https://freefuninfo.com/
 [Blog]: http://urdu-status.blogspot.com/
-[linkedin]: https://www.linkedin.com/in/azmatahmedmughal/
 [twitter]: https://twitter.com/Azmatahmed47
 [youtube]: https://www.youtube.com/channel/UCpK3u-BSyp3aNT7G3NKxd0Q
 [instagram]: https://instagram.com/azmatalism
