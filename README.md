@@ -2,7 +2,7 @@
 
 ## I'm Developer !
 - 👨‍💻 I'm iOS and Android developer
-- 🌐 I'm iOS and Android developer
+- 🌐 React Native and JavaScript
 - 🔭 develop application on [android Studio] and [VS Code]
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -45,6 +45,7 @@
 
 [website]: https://freefuninfo.com/
 [Blog]: http://urdu-status.blogspot.com/
+[linkedin]: https://www.linkedin.com/in/azmatahmedmughal/
 [twitter]: https://twitter.com/Azmatahmed47
 [youtube]: https://www.youtube.com/channel/UCpK3u-BSyp3aNT7G3NKxd0Q
 [instagram]: https://instagram.com/azmatalism
