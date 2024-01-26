@@ -1,7 +1,8 @@
 ### Hi there, I'm Azmat Ahmed [freefuninfo][website] 👋
 
-## I'm Student, Developer !
-- 🌱 I'm Android developer 
+## I'm Developer !
+- 👨‍💻 I'm iOS and Android developer
+- 🌐 I'm iOS and Android developer
 - 🔭 develop application on [android Studio] and [VS Code]
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
