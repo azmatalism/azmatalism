@@ -1,4 +1,4 @@
-### Hi there, I'm Azmat Ahmed [freefuninfo][website] 👋
+### Hi there, I'm Azmat Ahmed [freefuninfo][Play Store] 👋
 
 ## I'm Developer !
 - 👨‍💻 I'm iOS and Android developer
@@ -43,7 +43,7 @@
 
 ➡️ 
 
-[website]: https://freefuninfo.com/
+[Play Store]: https://freefuninfo.com/](https://play.google.com/store/apps/developer?id=Freefuninfo.com
 [Blog]: http://urdu-status.blogspot.com/
 [twitter]: https://twitter.com/Azmatahmed47
 [youtube]: https://www.youtube.com/channel/UCpK3u-BSyp3aNT7G3NKxd0Q
