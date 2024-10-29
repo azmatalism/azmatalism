@@ -2,8 +2,8 @@
 
 ## I'm Developer !
 - 👨‍💻 I'm iOS and Android developer
-- 🌐 Java, Swift, and React Native
-- 🔭 develop application on [android Studio], Xcode and [VS Code]
+- 🔠 Java, Swift, and React Native
+- 🔭 develop application on android Studio, Xcode and VS Code
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to develop new application 🤣
@@ -31,12 +31,12 @@
 <br />
 <br />
 
-### 📺 YouTube 
+### ▶️ YouTube 
 
 
 - [Here you can watch video on my YouTube!](https://www.youtube.com/channel/UCpK3u-BSyp3aNT7G3NKxd0Q)
 
-### 📺 Blog
+### 🌐 Blog
 
 
 [Urdu Status][Blog] 👋
